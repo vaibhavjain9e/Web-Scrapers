@@ -1,0 +1,362 @@
+,SOLD DATE,ADDRESS,CITY,STATE,POSTAL CODE,PRICE,BEDS,BATHS,PROPERTY TYPE,SQUARE FOOT
+0,FEB 22 2019,6307 Long St,Los Angeles,CA,90043,820000,4,3,SingleFamilyResidence,1786
+1,FEB 22 2019,5475 Bohlig Rd #110,El Sereno,CA,90032,335000,2,2,SingleFamilyResidence,813
+2,FEB 21 2019,336 N Plymouth Blvd,Los Angeles,CA,90004,1325500,2,2,SingleFamilyResidence,1455
+3,FEB 19 2019,3027 7th Ave,Los Angeles,CA,90018,680000,3,2,SingleFamilyResidence,1255
+4,FEB 14 2019,2121 Beloit Ave #305,Los Angeles (City),CA,90025,668800,2,2,SingleFamilyResidence,1050
+5,FEB 12 2019,3738 Mound View Ave,Studio City,CA,91604,3250000,5,6,SingleFamilyResidence,4183
+6,FEB 6 2019,2231 S Meyler St,San Pedro,CA,90731,500000,2,2,SingleFamilyResidence,1090
+7,FEB 4 2019,7953 Cowper Ave,West Hills,CA,91304,950000,4,3,SingleFamilyResidence,2714
+8,JAN 30 2019,1262 Pebble Dr,Harbor City,CA,90710,552500,4,325,SingleFamilyResidence,1690
+9,FEB 22 2019,2915 St George St #3,Los Angeles,CA,90027,440000,1,1,SingleFamilyResidence,700
+10,FEB 20 2019,1730 La Loma Rd,Pasadena,CA,91105,1085000,3,2,SingleFamilyResidence,1658
+11,FEB 6 2019,3164 Atwater Ave,Los Angeles,CA,90039,800000,5,375,SingleFamilyResidence,2206
+12,FEB 5 2019,19249 Hamlin St #4,Reseda,CA,91335,410000,2,15,SingleFamilyResidence,954
+13,FEB 23 2019,8567 N Walnut Way,West Hills,CA,91304,587000,4,25,SingleFamilyResidence,1515
+14,FEB 22 2019,22532 Berdon St,Woodland Hills,CA,91367,705000,3,2,SingleFamilyResidence,1690
+15,FEB 22 2019,3668 Hughes Ave #1,Los Angeles (City),CA,90034,780000,2,25,SingleFamilyResidence,1180
+16,FEB 22 2019,6142 West 6th St,Los Angeles (City),CA,90048,2100000,6,4,Accommodation,4069
+17,FEB 22 2019,6525 La Mirada Ave #102,Los Angeles,CA,90038,510000,2,2,SingleFamilyResidence,1035
+18,FEB 22 2019,23457 Styles St,Woodland Hills,CA,91367,817000,4,3,SingleFamilyResidence,1708
+19,FEB 21 2019,10112 Valjean Ave,North Hills,CA,91343,556000,3,2,SingleFamilyResidence,1264
+20,FEB 21 2019,3952 Drysdale Ave,El Sereno,CA,90032,481000,4,1,SingleFamilyResidence,727
+21,FEB 21 2019,22160 James Alan Cir,Chatsworth,CA,91311,500000,4,25,SingleFamilyResidence,1773
+22,FEB 21 2019,7416 Alverstone Ave,Los Angeles (City),CA,90045,1500000,4,3,SingleFamilyResidence,1843
+23,FEB 21 2019,4000 West Adams Blvd,Los Angeles (City),CA,90018,625000,3,25,SingleFamilyResidence,1860
+24,FEB 20 2019,11071 Yarmouth Ave,Granada Hills,CA,91344,685000,4,4,SingleFamilyResidence,2070
+25,FEB 20 2019,23621 Kentworthy Ave,Harbor City,CA,90710,585000,4,175,SingleFamilyResidence,1574
+26,FEB 20 2019,4765 Round Top Dr,Eagle Rock,CA,90065,990000,4,2,SingleFamilyResidence,1934
+27,FEB 20 2019,7904 Topanga Canyon Blvd #5,Canoga Park,CA,91304,429000,2,3,SingleFamilyResidence,1558
+28,FEB 20 2019,6644 Clybourn Ave #75,North Hollywood,CA,91606,458000,2,2,SingleFamilyResidence,1010
+29,FEB 20 2019,2030 S Cabrillo Ave #315,San Pedro,CA,90731,305000,1,1,SingleFamilyResidence,653
+30,FEB 15 2019,5230 Canoga Ave,Woodland Hills,CA,91364,786000,3,2,SingleFamilyResidence,1736
+31,FEB 15 2019,6632 Denny Ave,North Hollywood,CA,91606,633000,3,2,SingleFamilyResidence,1509
+32,FEB 15 2019,435 Arnaz Dr #202,Los Angeles (City),CA,90048,870000,2,25,SingleFamilyResidence,1372
+33,FEB 15 2019,1304 North Mansfield Ave,Los Angeles (City),CA,90038,1380000,3,35,SingleFamilyResidence,1938
+34,FEB 15 2019,212 E Imperial Ave Unit D,El Segundo,CA,90245,663000,3,2,SingleFamilyResidence,1393
+35,FEB 14 2019,2462 Lindsay Ln,Los Angeles (City),CA,90039,1234450,2,175,SingleFamilyResidence,1214
+36,FEB 14 2019,11051 Enfield Ave,Granada Hills,CA,91344,580000,3,25,SingleFamilyResidence,1971
+37,FEB 14 2019,19801 Lassen St,Chatsworth,CA,91311,770000,5,4,SingleFamilyResidence,3497
+38,FEB 14 2019,19158 Lahey St #3,Porter Ranch,CA,91326,495000,3,3,SingleFamilyResidence,1598
+39,FEB 14 2019,1122 Dolores Rd,San Pedro,CA,90731,730000,4,3,SingleFamilyResidence,2893
+40,FEB 14 2019,11145 Sylvan St,North Hollywood,CA,91606,860000,5,3,SingleFamilyResidence,2664
+41,FEB 13 2019,452 Museum Dr,Los Angeles,CA,90065,447500,1,1,SingleFamilyResidence,808
+42,FEB 13 2019,2222 N Beachwood Dr #105,Los Angeles,CA,90068,650000,2,175,SingleFamilyResidence,1500
+43,FEB 13 2019,1441 Lomita Blvd #2,Harbor City,CA,90710,535000,3,25,SingleFamilyResidence,1536
+44,FEB 12 2019,4007 Ethel Ave,Studio City,CA,91604,2915000,5,35,SingleFamilyResidence,3420
+45,FEB 12 2019,14200 Foothill Blvd #14,Sylmar,CA,91342,415000,3,25,SingleFamilyResidence,1126
+46,FEB 12 2019,730 Cory Dr #31,Inglewood,CA,90302,420000,2,225,SingleFamilyResidence,1160
+47,FEB 12 2019,5617 Deane Ave,Windsor Hills,CA,90043,675000,2,1,SingleFamilyResidence,950
+48,FEB 11 2019,4139 Tracy St,Los Angeles,CA,90027,1220000,3,2,SingleFamilyResidence,2255
+49,FEB 11 2019,7315 Mason Ave,Winnetka,CA,91306,540000,3,175,SingleFamilyResidence,1461
+50,FEB 9 2019,1538 Stonewood Ct #81,San Pedro,CA,90732,450000,1,2,SingleFamilyResidence,1211
+51,FEB 8 2019,149 S Avenue 54 #1,Los Angeles,CA,90042,515000,2,25,SingleFamilyResidence,1227
+52,FEB 8 2019,21739 Chase St,Canoga Park,CA,91304,529000,4,2,SingleFamilyResidence,1349
+53,FEB 8 2019,10847 Blix St #7,North Hollywood,CA,91602,360000,1,1,SingleFamilyResidence,596
+54,FEB 8 2019,1400 North Hayworth Ave #26,West Hollywood,CA,90046,515000,1,1,SingleFamilyResidence,611
+55,FEB 6 2019,10421 Yolanda Ave,Northridge,CA,91326,700000,4,2,SingleFamilyResidence,1808
+56,FEB 6 2019,2115 S Cochran Ave,Los Angeles,CA,90016,674000,2,1,SingleFamilyResidence,1036
+57,FEB 6 2019,6701 Sale Ave,West Hills,CA,91307,570000,4,2,SingleFamilyResidence,1449
+58,FEB 5 2019,4771 Don Porfirio Pl,Los Angeles (City),CA,90008,979000,3,225,SingleFamilyResidence,2038
+59,FEB 5 2019,530 North Martel Ave,Los Angeles (City),CA,90036,2000000,4,25,SingleFamilyResidence,2375
+60,FEB 5 2019,2711 S Carolina,San Pedro,CA,90731,580000,3,1,SingleFamilyResidence,1040
+61,FEB 4 2019,945 North Hudson Ave #104,Los Angeles (City),CA,90038,536000,2,2,SingleFamilyResidence,890
+62,FEB 4 2019,8653 Louise Ave,Sherwood Forest,CA,91325,915000,4,3,SingleFamilyResidence,3248
+63,FEB 1 2019,5050 Coldwater Canyon Ave #209,Sherman Oaks,CA,91423,450000,2,2,SingleFamilyResidence,1269
+64,FEB 1 2019,331 W Avenue 37,Los Angeles,CA,90065,649000,3,3,SingleFamilyResidence,1592
+65,FEB 1 2019,6153 Manton Ave,Woodland Hills,CA,91367,725000,3,3,SingleFamilyResidence,1570
+66,FEB 1 2019,11701 Pala Mesa Dr,Porter Ranch,CA,91326,920000,5,3,SingleFamilyResidence,2494
+67,JAN 31 2019,3947 Benedict Canyon Dr,Sherman Oaks,CA,91423,1315000,3,2,SingleFamilyResidence,1900
+68,JAN 31 2019,8740 Willis Ave #7,Panorama City,CA,91402,369000,3,25,SingleFamilyResidence,1446
+69,JAN 31 2019,5011 Los Robles St,Los Angeles (City),CA,90041,906000,3,2,SingleFamilyResidence,1695
+70,JAN 31 2019,6527 Debs Ave,West Hills,CA,91307,624800,3,15,SingleFamilyResidence,1200
+71,JAN 30 2019,17657 Bryan Pl,Granada Hills,CA,91344,990000,4,3,SingleFamilyResidence,2886
+72,JAN 30 2019,21810 San Miguel St,Woodland Hills,CA,91364,604000,3,225,SingleFamilyResidence,1868
+73,JAN 29 2019,6827 Matilija Ave,Van Nuys,CA,91405,735000,4,3,SingleFamilyResidence,2873
+74,JAN 29 2019,938 North Sweetzer Ave,West Hollywood,CA,90069,2312500,3,3,SingleFamilyResidence,2107
+75,JAN 29 2019,22038 Vanowen St #208,Woodland Hills,CA,91303,425000,2,3,SingleFamilyResidence,1362
+76,JAN 29 2019,6528 Kentwood Bluffs Dr,Los Angeles (City),CA,90045,2065000,5,4,SingleFamilyResidence,2826
+77,JAN 29 2019,21238 Lopez St,Woodland Hills,CA,91364,750000,3,2,SingleFamilyResidence,1328
+78,JAN 29 2019,5425 West 76th St,Los Angeles (City),CA,90045,800000,2,1,SingleFamilyResidence,804
+79,JAN 28 2019,15511 Sherman Way #15,Van Nuys,CA,91406,390000,3,2,SingleFamilyResidence,1142
+80,FEB 25 2019,17140 Mckeever St,Granada Hills,CA,91344,640000,4,2,SingleFamilyResidence,1607
+81,FEB 25 2019,221 Tranquillo Rd,Pacific Palisades,CA,90272,2235000,3,3,SingleFamilyResidence,2083
+82,FEB 22 2019,16738 Index St,Granada Hills,CA,91344,545000,4,2,SingleFamilyResidence,1325
+83,FEB 22 2019,3419 9th Ave,Los Angeles,CA,90018,550000,3,2,SingleFamilyResidence,1724
+84,FEB 22 2019,2132 S Rimpau Blvd,Los Angeles,CA,90016,955000,5,275,SingleFamilyResidence,1898
+85,FEB 22 2019,15211 Monte St,Sylmar,CA,91342,898457,7,4,SingleFamilyResidence,3117
+86,FEB 22 2019,1015 North Kings Rd #201,West Hollywood,CA,90069,828650,2,2,SingleFamilyResidence,1408
+87,FEB 22 2019,2752 Hollyridge Dr,Los Angeles (City),CA,90068,1860000,4,35,SingleFamilyResidence,3015
+88,FEB 22 2019,22045 Schoolcraft St,Canoga Park,CA,91303,545000,3,2,SingleFamilyResidence,1305
+89,FEB 22 2019,23955 Hartland St,West Hills,CA,91307,692000,3,2,SingleFamilyResidence,1570
+90,FEB 21 2019,316 E 91st St,Los Angeles,CA,90003,420000,3,2,SingleFamilyResidence,1325
+91,FEB 21 2019,151 E 99th St,Los Angeles,CA,90003,375000,3,2,SingleFamilyResidence,1084
+92,FEB 21 2019,3244 Wrightwood Dr,Studio City,CA,91604,1020000,3,125,SingleFamilyResidence,1841
+93,FEB 21 2019,562 Chapala Dr,Pacific Palisades,CA,90272,7360000,5,4,SingleFamilyResidence,5720
+94,FEB 21 2019,601 North Harper Ave,Los Angeles (City),CA,90048,3600000,4,5,SingleFamilyResidence,
+95,FEB 21 2019,7467 Hollywood,Los Angeles (City),CA,90046,2900000,6,55,Accommodation,8180
+96,FEB 21 2019,6610 Maryland Dr,Los Angeles (City),CA,90048,3095000,5,425,SingleFamilyResidence,3928
+97,FEB 20 2019,1528 Ronan Ave,Wilmington,CA,90744,455000,3,2,SingleFamilyResidence,1150
+98,FEB 20 2019,15063 Rayneta Dr,Sherman Oaks,CA,91403,1700000,5,3,SingleFamilyResidence,3476
+99,FEB 20 2019,10607 Gaviota Ave,Granada Hills,CA,91344,677500,4,15,SingleFamilyResidence,1428
+100,FEB 20 2019,3211 Waverly Dr,Los Feliz,CA,90027,1810000,4,25,SingleFamilyResidence,2602
+101,FEB 20 2019,849 South Broadway #1111,Los Angeles (City),CA,90014,1325000,2,2,SingleFamilyResidence,1730
+102,FEB 20 2019,5155 Bellaire Ave,Valley Village,CA,91607,2075000,5,55,SingleFamilyResidence,4453
+103,FEB 20 2019,7437 Eton Ave,Canoga Park,CA,91303,835000,6,4,Accommodation,4322
+104,FEB 20 2019,8850 Morehart Ave,Sun Valley,CA,91352,525000,3,1,SingleFamilyResidence,1089
+105,FEB 20 2019,207 N Bowling Green Way,Brentwood,CA,90049,3750000,4,45,SingleFamilyResidence,4638
+106,FEB 20 2019,5800 Owensmouth Ave #61,Woodland Hills,CA,91367,500000,2,2,SingleFamilyResidence,1190
+107,FEB 20 2019,5907 Jumilla Ave,Woodland Hills,CA,91367,1588000,4,3,SingleFamilyResidence,3566
+108,FEB 20 2019,8043 Yarmouth Ave,Reseda,CA,91335,550000,4,2,SingleFamilyResidence,1212
+109,FEB 20 2019,15601 Meadowgate Rd,Encino,CA,91436,1670000,4,4,SingleFamilyResidence,2887
+110,FEB 20 2019,13506 Chandler,Sherman Oaks,CA,91401,1504500,4,45,SingleFamilyResidence,2749
+111,FEB 19 2019,375 Mesa Rd,Santa Monica,CA,90402,2795000,3,3,SingleFamilyResidence,2369
+112,FEB 19 2019,1168 W 204th St,Torrance,CA,90502,355000,1,1,SingleFamilyResidence,720
+113,FEB 19 2019,6902 Remmet Ave,Canoga Park,CA,91303,649950,3,2,SingleFamilyResidence,1565
+114,FEB 19 2019,9243 Creemore Dr,La Crescenta,CA,91214,860000,4,2,SingleFamilyResidence,1779
+115,FEB 19 2019,23219 Collins St,Woodland Hills,CA,91367,1300000,4,225,SingleFamilyResidence,2660
+116,FEB 19 2019,5535 Canoga Ave #320,Woodland Hills,CA,91367,480000,2,2,SingleFamilyResidence,1020
+117,FEB 19 2019,6667 Wilbur Ave #37,Reseda,CA,91335,353850,4,2,SingleFamilyResidence,1211
+118,FEB 19 2019,4729 Columbus Ave,Sherman Oaks,CA,91403,1400000,4,3,SingleFamilyResidence,2640
+119,FEB 18 2019,12351 Osborne St #8,Pacoima,CA,91331,275000,2,15,SingleFamilyResidence,1224
+120,FEB 18 2019,11349 Sinclair Ave,Porter Ranch,CA,91326,668000,3,2,SingleFamilyResidence,1428
+121,FEB 18 2019,12069 Carabella Ct,Porter Ranch,CA,91326,1096645,5,425,SingleFamilyResidence,3363
+122,FEB 15 2019,7837 Mason Ave,Winnetka,CA,91306,520000,4,2,SingleFamilyResidence,1604
+123,FEB 19 2019,6667 Wilbur Ave #37,Reseda,CA,91335,353850,4,2,SingleFamilyResidence,1211
+124,FEB 19 2019,4729 Columbus Ave,Sherman Oaks,CA,91403,1400000,4,3,SingleFamilyResidence,2640
+125,FEB 18 2019,12351 Osborne St #8,Pacoima,CA,91331,275000,2,15,SingleFamilyResidence,1224
+126,FEB 18 2019,11349 Sinclair Ave,Porter Ranch,CA,91326,668000,3,2,SingleFamilyResidence,1428
+127,FEB 18 2019,12069 Carabella Ct,Porter Ranch,CA,91326,1096645,5,425,SingleFamilyResidence,3363
+128,FEB 15 2019,7837 Mason Ave,Winnetka,CA,91306,520000,4,2,SingleFamilyResidence,1604
+129,FEB 15 2019,15946 Vanowen St #107,Van Nuys,CA,91406,240000,1,1,SingleFamilyResidence,687
+130,FEB 15 2019,1150 W Capitol Dr #71,San Pedro,CA,90732,589000,3,25,SingleFamilyResidence,1758
+131,FEB 15 2019,3763 Lankershim Blvd,Los Angeles (City),CA,90068,935000,3,2,SingleFamilyResidence,
+132,FEB 15 2019,11150 Glenoaks Blvd #81,Pacoima,CA,91331,303000,2,2,SingleFamilyResidence,1017
+133,FEB 15 2019,10311 Marcus Ave,Tujunga,CA,91042,612000,3,3,SingleFamilyResidence,1444
+134,FEB 15 2019,16235 Devonshire St #18,Granada Hills,CA,91344,455000,3,225,SingleFamilyResidence,1544
+135,FEB 15 2019,5139 Melrose Ave,Los Angeles,CA,90038,3650000,6,22,Accommodation,12677
+136,FEB 15 2019,1412 N Kingsley Dr,Los Angeles,CA,90027,5085000,3,30,Accommodation,18645
+137,FEB 15 2019,17611 Runnymede St,Lake Balboa,CA,91406,490000,3,15,SingleFamilyResidence,1216
+138,FEB 15 2019,3011 Stoner Ave,Los Angeles (City),CA,90066,2195000,5,4,SingleFamilyResidence,2220
+139,FEB 15 2019,1420 W 28th St,Los Angeles,CA,90007,844000,5,2,Accommodation,2348
+140,FEB 15 2019,601 San Pascual Ave,Los Angeles (City),CA,90042,800000,3,175,SingleFamilyResidence,1400
+141,FEB 15 2019,1320 W 101st St,Los Angeles,CA,90044,390000,2,1,SingleFamilyResidence,1032
+142,FEB 15 2019,7101 La Tijera Unit G201,Los Angeles (City),CA,90045,490000,1,15,SingleFamilyResidence,1143
+143,FEB 15 2019,1420 W 28th St,Los Angeles,CA,90007,844000,5,2,Accommodation,2348
+144,FEB 15 2019,601 San Pascual Ave,Los Angeles (City),CA,90042,800000,3,175,SingleFamilyResidence,1400
+145,FEB 15 2019,1320 W 101st St,Los Angeles,CA,90044,390000,2,1,SingleFamilyResidence,1032
+146,FEB 15 2019,7101 La Tijera Unit G201,Los Angeles (City),CA,90045,490000,1,15,SingleFamilyResidence,1143
+147,FEB 15 2019,1055 South Serrano Ave #304,Los Angeles (City),CA,90006,640000,2,2,SingleFamilyResidence,1183
+148,FEB 15 2019,5933 Graves Ave,Encino,CA,91316,870000,4,2,SingleFamilyResidence,1533
+149,FEB 15 2019,15901 Kingsbury St,Granada Hills,CA,91344,624000,4,2,SingleFamilyResidence,1539
+150,FEB 15 2019,21000 Parthenia St #7,Canoga Park,CA,91304,220000,1,1,SingleFamilyResidence,679
+151,FEB 15 2019,7913 West 81st St,Playa Del Rey,CA,90293,1478000,4,275,SingleFamilyResidence,2516
+152,FEB 15 2019,1610 Michael Ln,Pacific Palisades,CA,90272,1605000,3,35,SingleFamilyResidence,2467
+153,FEB 15 2019,1031 S Cabrillo Ave,San Pedro,CA,90731,636000,3,15,SingleFamilyResidence,1388
+154,FEB 15 2019,852 West 21st St,San Pedro,CA,90731,627000,3,125,SingleFamilyResidence,1328
+155,FEB 15 2019,11586 Gallery Ln,Valley Village,CA,91602,899000,3,35,SingleFamilyResidence,1684
+156,FEB 15 2019,6871 Fountain Ave,Los Angeles (City),CA,90038,1470000,3,35,SingleFamilyResidence,2101
+157,FEB 15 2019,2275 W 25th St #137,San Pedro,CA,90732,106500,2,175,SingleFamilyResidence,1845
+158,FEB 15 2019,14305 Hartsook St,Sherman Oaks,CA,91423,500000,3,3,SingleFamilyResidence,1845
+159,FEB 15 2019,875 Comstock Ave Unit 3B,Los Angeles (City),CA,90024,974500,2,2,SingleFamilyResidence,1699
+160,FEB 15 2019,13222 Copa De Oro Ct,Sylmar,CA,91342,589500,3,3,SingleFamilyResidence,2118
+161,FEB 15 2019,14819 Magnolia Blvd #12,Sherman Oaks,CA,91403,505000,2,3,SingleFamilyResidence,1218
+162,FEB 14 2019,120 W 127th St,Los Angeles,CA,90061,425000,2,1,SingleFamilyResidence,899
+163,FEB 14 2019,14333 Van Nuys Blvd #45,Arleta,CA,91331,355000,2,25,SingleFamilyResidence,1217
+164,FEB 14 2019,15701 Celtic St,Granada Hills,CA,91344,560000,3,2,SingleFamilyResidence,1400
+165,FEB 14 2019,8541 Dempsey Ave,North Hills,CA,91343,630000,3,2,SingleFamilyResidence,1572
+166,FEB 14 2019,2223 South Bentley Ave #102,Los Angeles (City),CA,90064,715000,3,2,SingleFamilyResidence,1240
+167,FEB 14 2019,120 W 127th St,Los Angeles,CA,90061,425000,2,1,SingleFamilyResidence,899
+168,FEB 14 2019,13408 Azores Ave,Sylmar,CA,91342,645000,4,3,SingleFamilyResidence,1899
+169,FEB 14 2019,6411 Shoup Ave,West Hills,CA,91307,699000,3,2,SingleFamilyResidence,1986
+170,FEB 14 2019,15044 Florentine St,Sylmar,CA,91342,605000,3,2,SingleFamilyResidence,1855
+171,FEB 14 2019,865 Comstock Ave Unit 15C,Los Angeles,CA,90024,650000,1,15,SingleFamilyResidence,1253
+172,FEB 14 2019,1646 North Hoover St,Los Angeles (City),CA,90027,1655000,9,7,Accommodation,3309
+173,FEB 14 2019,8611 Hollywood,Los Angeles (City),CA,90069,1640000,3,3,SingleFamilyResidence,2576
+174,FEB 14 2019,1241 S Westgate Ave S #102,West Los Angeles,CA,90025,937000,3,3,SingleFamilyResidence,1627
+175,FEB 14 2019,7129 Coldwater Canyon Ave #16,North Hollywood,CA,91605,249900,2,1,SingleFamilyResidence,700
+176,FEB 14 2019,11752 Kling St,Valley Village,CA,91607,790000,2,1,SingleFamilyResidence,
+177,FEB 14 2019,16745 Bermuda St,Granada Hills,CA,91344,660000,4,3,SingleFamilyResidence,1479
+178,FEB 14 2019,501 North Gardner St,Los Angeles (City),CA,90036,2402000,7,6,Accommodation,4754
+179,FEB 14 2019,4601 Gloria Ave,Encino,CA,91436,1295000,3,4,SingleFamilyResidence,2331
+180,FEB 14 2019,9400 Burnet Ave #127,North Hills,CA,91343,530000,4,25,SingleFamilyResidence,1989
+181,FEB 13 2019,4614 Talofa Ave,Toluca Lake,CA,91602,1268800,2,25,SingleFamilyResidence,1704
+182,FEB 13 2019,9231 Vanalden Ave,Northridge,CA,91324,698250,5,25,SingleFamilyResidence,2364
+183,FEB 13 2019,9231 Vanalden Ave,Northridge,CA,91324,698250,5,25,SingleFamilyResidence,2364
+184,FEB 13 2019,3812 La Salle Ave,Los Angeles (City),CA,90062,500000,2,1,SingleFamilyResidence,1056
+185,FEB 13 2019,4816 Via Colina,Los Angeles,CA,90042,530000,2,2,SingleFamilyResidence,1036
+186,FEB 13 2019,11661 Saticoy St,North Hollywood,CA,91605,300000,2,1,SingleFamilyResidence,744
+187,FEB 13 2019,10410 McVine Ave,Sunland,CA,91040,421500,3,2,SingleFamilyResidence,1181
+188,FEB 13 2019,3545 Copeland Pl,El Sereno,CA,90032,640000,2,1,SingleFamilyResidence,1717
+189,FEB 13 2019,241 South Avenue 57 #124,Los Angeles (City),CA,90042,380000,2,2,SingleFamilyResidence,927
+190,FEB 13 2019,744 North Curson Ave,Los Angeles (City),CA,90046,1543000,3,25,SingleFamilyResidence,1356
+191,FEB 13 2019,1357 Eagle Vista Dr,Los Angeles,CA,90041,960000,5,35,SingleFamilyResidence,2416
+192,FEB 13 2019,6500 Vanalden Ave #4,Reseda,CA,91335,410000,3,15,SingleFamilyResidence,1269
+193,FEB 13 2019,19000 Archwood #1,Reseda,CA,91335,337000,2,15,SingleFamilyResidence,851
+194,FEB 13 2019,7071 Cozycroft Ave,Winnetka,CA,91306,575000,3,175,SingleFamilyResidence,1600
+195,FEB 13 2019,18206 Gresham St,Northridge,CA,91325,576000,3,15,SingleFamilyResidence,1316
+196,FEB 13 2019,6447 West 77th St,Los Angeles (City),CA,90045,1178000,3,15,SingleFamilyResidence,1392
+197,FEB 13 2019,1614 Wellington Rd,Los Angeles (City),CA,90019,1253888,5,3,SingleFamilyResidence,3879
+198,FEB 13 2019,214 W 57th St,Los Angeles,CA,90037,490000,4,4,Accommodation,2016
+199,FEB 13 2019,602 South Wilton Pl #106,Los Angeles (City),CA,90005,625000,2,2,SingleFamilyResidence,1503
+200,FEB 13 2019,6660 Sheltondale Ave,West Hills,CA,91307,775000,4,2,SingleFamilyResidence,1878
+201,FEB 13 2019,22840 Mariano St,Woodland Hills,CA,91367,560000,3,1,SingleFamilyResidence,1276
+202,FEB 13 2019,26209 Zephyr Ave,Harbor City,CA,90710,710000,3,2,SingleFamilyResidence,1724
+203,FEB 13 2019,26209 Zephyr Ave,Harbor City,CA,90710,710000,3,2,SingleFamilyResidence,1724
+204,FEB 13 2019,10531 Marklein Ave,Mission Hills (San Fernando),CA,91345,600000,3,3,SingleFamilyResidence,1555
+205,FEB 12 2019,5144 Zelzah Ave #5,Encino,CA,91316,400000,2,3,SingleFamilyResidence,1113
+206,FEB 12 2019,12013 Neenach St,Sun Valley,CA,91352,420000,2,1,SingleFamilyResidence,840
+207,FEB 12 2019,1342 El Paso Dr,Los Angeles (City),CA,90065,598000,2,2,SingleFamilyResidence,1120
+208,FEB 12 2019,215 North Avenue 59,Los Angeles (City),CA,90042,825000,5,25,SingleFamilyResidence,1508
+209,FEB 12 2019,1055 South Serrano Ave #503,Los Angeles (City),CA,90006,770000,2,2,SingleFamilyResidence,1370
+210,FEB 12 2019,7287 Bernadine Ave,West Hills,CA,91307,620000,4,25,SingleFamilyResidence,2637
+211,FEB 12 2019,8857 Katherine Ave,Panorama City,CA,91402,450000,2,1,SingleFamilyResidence,780
+212,FEB 12 2019,4499 Via Marisol Unit 108A,Los Angeles,CA,90042,448000,2,175,SingleFamilyResidence,1047
+213,FEB 12 2019,3502 Larga Ave,Los Angeles (City),CA,90039,956016,3,2,Accommodation,1639
+214,FEB 12 2019,2140 Canyon Dr,Los Angeles (City),CA,90068,2962000,4,35,SingleFamilyResidence,3208
+215,FEB 12 2019,7420 Corbin Ave #32,Reseda,CA,91335,383000,2,25,SingleFamilyResidence,1176
+216,FEB 12 2019,17908 Hatton St,Reseda,CA,91335,590000,4,2,SingleFamilyResidence,1860
+217,FEB 12 2019,16308 San Jose St,Granada Hills,CA,91344,593000,3,2,SingleFamilyResidence,1406
+218,FEB 12 2019,1753 South Shenandoah St,Los Angeles (City),CA,90035,1430000,3,2,SingleFamilyResidence,1720
+219,FEB 12 2019,7304 Corbin Ave Unit A,Reseda,CA,91335,300000,1,1,SingleFamilyResidence,653
+220,FEB 12 2019,25555 PINE CREEK Ln,Wilmington,CA,90744,320000,2,1,SingleFamilyResidence,919
+221,FEB 11 2019,12455 Kenny Dr,Granada Hills,CA,91344,890000,4,3,SingleFamilyResidence,3021
+222,FEB 11 2019,10706 Ohio Ave,Los Angeles (City),CA,90024,2370000,6,6,Accommodation,3959
+223,FEB 11 2019,11909 S Main St,Los Angeles,CA,90061,775000,11,5,Accommodation,4700
+224,FEB 11 2019,685 687 W 20th St,San Pedro,CA,90731,455000,4,2,Accommodation,1512
+225,FEB 11 2019,12455 Kenny Dr,Granada Hills,CA,91344,890000,4,3,SingleFamilyResidence,3021
+226,FEB 11 2019,10706 Ohio Ave,Los Angeles (City),CA,90024,2370000,6,6,Accommodation,3959
+227,FEB 11 2019,1226 S Manhattan Pl,Los Angeles,CA,90019,1100000,32,21,Accommodation,4802
+228,FEB 11 2019,4287 Verdugo Rd,Glassell Park,CA,90065,940000,4,4,Accommodation,2536
+229,FEB 11 2019,22649 Covello St,West Hills,CA,91307,630000,4,175,SingleFamilyResidence,1636
+230,FEB 11 2019,4255 W 5th St #103,Los Angeles,CA,90020,400000,1,1,SingleFamilyResidence,750
+231,FEB 11 2019,8007 Comanche Ave,Winnetka,CA,91306,520000,4,3,SingleFamilyResidence,2406
+232,FEB 11 2019,451 South Cochran Ave,Los Angeles (City),CA,90036,3100000,8,8,Accommodation,7155
+233,FEB 11 2019,153 North Sycamore Ave Unit U,Los Angeles (City),CA,90036,985000,2,2,SingleFamilyResidence,1419
+234,FEB 11 2019,319 North Bundy Dr,Los Angeles (City),CA,90049,2221658,3,3,SingleFamilyResidence,2101
+235,FEB 10 2019,22516 Normandie Unit A18,Torrance,CA,90502,85000,2,1,SingleFamilyResidence,800
+236,FEB 8 2019,1320 W G St,Wilmington,CA,90744,435000,2,1,SingleFamilyResidence,898
+237,FEB 8 2019,1515 S Beverly Dr #407,Los Angeles,CA,90035,499000,1,1,SingleFamilyResidence,681
+238,FEB 8 2019,10755 Ohio Ave,Los Angeles (City),CA,90024,2275000,6,6,Accommodation,5300
+239,FEB 8 2019,3539 Chesapeake Ave,Los Angeles (City),CA,90016,980000,5,3,Accommodation,2212
+240,FEB 8 2019,6501 Dannyboyar Ave,West Hills,CA,91307,608000,4,2,SingleFamilyResidence,1588
+241,FEB 8 2019,7309 Vassar Ave,Canoga Park,CA,91303,469000,3,25,SingleFamilyResidence,1776
+242,FEB 8 2019,7308 Bonnie Pl,Reseda,CA,91335,480000,3,3,SingleFamilyResidence,1357
+243,FEB 8 2019,2725 Ellison Dr,Beverly Hills,CA,90210,1462000,2,3,SingleFamilyResidence,1944
+244,FEB 7 2019,1743 E 43rd St,Los Angeles,CA,90058,377500,3,175,SingleFamilyResidence,900
+245,FEB 7 2019,7133 Hawthorn Ave #201,Los Angeles,CA,90046,830000,3,275,SingleFamilyResidence,1500
+246,FEB 7 2019,4440 Placidia Ave,Toluca Lake,CA,91602,1950000,4,4,SingleFamilyResidence,2716
+247,FEB 7 2019,805 South Ogden Dr,Los Angeles (City),CA,90036,1350000,3,275,SingleFamilyResidence,1870
+248,FEB 6 2019,6943 Cozycroft Ave,Winnetka,CA,91306,701000,4,3,SingleFamilyResidence,2252
+249,FEB 6 2019,8462 Ventura Canyon Ave,Panorama City,CA,91402,460000,3,2,SingleFamilyResidence,1110
+250,FEB 6 2019,2550 Aberdeen Ave,Los Angeles (City),CA,90027,3600000,6,5,SingleFamilyResidence,5863
+251,FEB 6 2019,242 Surfview Dr,Pacific Palisades,CA,90272,3050000,4,45,SingleFamilyResidence,3932
+252,FEB 6 2019,7347 Garden Grove Ave,Reseda,CA,91335,550000,3,2,SingleFamilyResidence,1350
+253,FEB 6 2019,13263 Tripoli Ave,Sylmar,CA,91342,560000,3,3,SingleFamilyResidence,1573
+254,FEB 6 2019,20032 Community St #74,Winnetka,CA,91306,515000,3,3,SingleFamilyResidence,1810
+255,FEB 5 2019,25122 Ebony Ln,Lomita,CA,90717,1150000,8,4,SingleFamilyResidence,3432
+256,FEB 5 2019,13730 Aldergrove St,Sylmar,CA,91342,675000,5,3,SingleFamilyResidence,2536
+257,FEB 5 2019,1939 W 36th Pl,Los Angeles,CA,90018,465000,2,1,SingleFamilyResidence,750
+258,FEB 5 2019,20208 Wells Dr,Woodland Hills,CA,91364,3000000,5,65,SingleFamilyResidence,6659
+259,FEB 5 2019,6201 Glen Oak St,Los Angeles (City),CA,90068,915000,3,1,SingleFamilyResidence,1145
+260,FEB 5 2019,1527 E Colon St,Wilmington,CA,90744,374000,2,1,SingleFamilyResidence,768
+261,FEB 4 2019,3400 Smith St,Los Angeles,CA,90031,430000,2,1,SingleFamilyResidence,791
+262,FEB 4 2019,3630 Tacoma Ave,Los Angeles (City),CA,90065,1410000,3,2,SingleFamilyResidence,2219
+263,FEB 4 2019,22751 Angel Ln,West Hills,CA,91304,849215,4,3,SingleFamilyResidence,2539
+264,FEB 4 2019,3827 West 59th St,Los Angeles (City),CA,90043,875000,5,3,SingleFamilyResidence,2114
+265,FEB 4 2019,7700 Kentwood Ave,Los Angeles (City),CA,90045,1470000,3,3,SingleFamilyResidence,2023
+266,FEB 4 2019,2833 West Silver Lake Dr,Los Angeles (City),CA,90039,739000,1,1,SingleFamilyResidence,669
+267,FEB 4 2019,8108 Laurel View Dr,Los Angeles (City),CA,90069,3250000,3,325,SingleFamilyResidence,3317
+268,FEB 4 2019,2609 Devista Pl,Los Angeles (City),CA,90046,2700000,4,45,SingleFamilyResidence,3650
+269,FEB 4 2019,2000 La Brea Ter,Los Angeles (City),CA,90046,7900000,5,75,SingleFamilyResidence,8500
+270,FEB 4 2019,8007 Mcdermott Ave,Reseda,CA,91335,600000,4,2,SingleFamilyResidence,1342
+271,FEB 4 2019,10116 Empyrean Way #201,Los Angeles (City),CA,90067,1825000,2,25,SingleFamilyResidence,
+272,FEB 4 2019,12337 Ridge Cir,Los Angeles (City),CA,90049,1500000,2,25,SingleFamilyResidence,3228
+273,FEB 4 2019,3314 Griffith Park Blvd #3,Los Angeles (City),CA,90027,608000,2,15,SingleFamilyResidence,1068
+274,FEB 4 2019,1003 E Young St,Wilmington,CA,90744,605000,5,3,Accommodation,2799
+275,FEB 2 2019,7342 Matilija Ave,Van Nuys,CA,91405,457000,2,2,SingleFamilyResidence,1223
+276,FEB 2 2019,11005 Borden Ave,Pacoima,CA,91331,502000,3,2,SingleFamilyResidence,1172
+277,FEB 1 2019,10513 Chandler Blvd,North Hollywood,CA,91601,670000,2,2,Accommodation,1045
+278,FEB 1 2019,9102 Helen Ave,Sun Valley,CA,91352,665000,3,2,SingleFamilyResidence,1697
+279,FEB 1 2019,944 N Ditman,Los Angeles,CA,90063,475000,6,5,SingleFamilyResidence,2033
+280,FEB 1 2019,4130 Verdugo View Dr,Los Angeles (City),CA,90065,850000,2,1,SingleFamilyResidence,1230
+281,FEB 1 2019,249 E 126th St,Los Angeles,CA,90061,450000,2,1,SingleFamilyResidence,874
+282,FEB 1 2019,724 King Ave,Wilmington,CA,90744,418000,3,2,Accommodation,1400
+283,FEB 1 2019,5651 Ponce Ave,Woodland Hills,CA,91367,947500,4,25,SingleFamilyResidence,2182
+284,FEB 1 2019,18366 Collins St Unit B,Tarzana,CA,91356,455000,2,3,SingleFamilyResidence,1659
+285,FEB 1 2019,849 S Broadway #304,Los Angeles,CA,90014,1225000,1,1,SingleFamilyResidence,1490
+286,FEB 1 2019,5651 Ponce Ave,Woodland Hills,CA,91367,947500,4,25,SingleFamilyResidence,2182
+287,FEB 1 2019,10110 Vena Ave,Arleta,CA,91331,475000,2,1,SingleFamilyResidence,906
+288,FEB 1 2019,7006 Tunney Ave,Reseda,CA,91335,510000,3,175,SingleFamilyResidence,1396
+289,FEB 1 2019,4610 Winnetka Ave,Woodland Hills,CA,91364,1255000,4,3,SingleFamilyResidence,2803
+290,FEB 1 2019,8523 Sylmar Ave,Panorama City,CA,91402,478000,3,1,SingleFamilyResidence,1014
+291,FEB 1 2019,4485 Hazeltine Ave #3,Sherman Oaks,CA,91423,750000,2,25,SingleFamilyResidence,1420
+292,JAN 31 2019,3931 Woodcliff Rd,Sherman Oaks,CA,91403,1199000,3,25,SingleFamilyResidence,1614
+293,JAN 31 2019,7933 Sunnybrae Ave,Winnetka,CA,91306,575000,3,2,SingleFamilyResidence,1380
+294,JAN 31 2019,10425 Dempsey Ave,Granada Hills,CA,91344,660000,4,275,SingleFamilyResidence,2264
+295,JAN 31 2019,1225 E Acacia Ave,El Segundo,CA,90245,1595000,4,35,SingleFamilyResidence,2454
+296,JAN 31 2019,2360 W 31st St,Los Angeles,CA,90018,650000,5,2,SingleFamilyResidence,2119
+297,JAN 31 2019,5761 San Vicente,Los Angeles (City),CA,90019,1665000,8,6,Accommodation,5142
+298,JAN 31 2019,4325 East Raynol St,Los Angeles (City),CA,90032,175000,,,Accommodation,
+299,JAN 31 2019,2041 2043 Ridgeview Ave,Eagle Rock,CA,90041,800000,4,3,Accommodation,1428
+300,JAN 31 2019,5914 South Holt Ave,Los Angeles (City),CA,90056,1615000,4,45,SingleFamilyResidence,3210
+301,JAN 31 2019,7705 Nevada Ave,Canoga Park,CA,91304,612500,3,2,SingleFamilyResidence,1704
+302,JAN 31 2019,135 South Swall Dr #103,Los Angeles (City),CA,90048,1360000,3,3,SingleFamilyResidence,1940
+303,JAN 31 2019,7412 Gazette Ave,Winnetka,CA,91306,537000,4,2,SingleFamilyResidence,1303
+304,JAN 31 2019,5249 Comercio Ave,Woodland Hills,CA,91364,755000,4,2,Accommodation,1853
+305,JAN 31 2019,14854 Brand,Mission Hills San Fernando,CA,91345,669790,4,2,Accommodation,693
+306,JAN 31 2019,14854 Brand,Mission Hills San Fernando,CA,91345,669790,4,2,Accommodation,693
+307,JAN 31 2019,9960 Owensmouth Ave #20,Chatsworth,CA,91311,361000,3,225,SingleFamilyResidence,1755
+308,JAN 30 2019,4411 Jubilo Dr,Tarzana,CA,91356,1450000,3,3,SingleFamilyResidence,2815
+309,JAN 30 2019,2492 Loy Ln,Los Angeles (City),CA,90041,949075,2,15,SingleFamilyResidence,1129
+310,JAN 30 2019,11912 Laurelwood Dr #202,Studio City,CA,91604,885000,3,25,SingleFamilyResidence,1640
+311,JAN 30 2019,15455 Glenoaks Blvd #194,Sylmar,CA,91342,252500,2,2,SingleFamilyResidence,1736
+312,JAN 30 2019,7403 Remmet Ave,Canoga Park,CA,91303,530000,4,2,SingleFamilyResidence,1281
+313,JAN 30 2019,19610 Sherman Way #2,Reseda,CA,91335,385000,3,3,SingleFamilyResidence,1254
+314,JAN 30 2019,10112 Gerald Ave,North Hills,CA,91343,578000,3,175,SingleFamilyResidence,1663
+315,JAN 30 2019,2075 Stonewood Ct,San Pedro,CA,90732,550000,2,225,SingleFamilyResidence,1429
+316,JAN 30 2019,8565 Adir Dr,West Hills,CA,91304,910000,5,3,SingleFamilyResidence,3138
+317,JAN 30 2019,7427 Densmore Ave,Lake Balboa,CA,91406,599000,3,2,SingleFamilyResidence,1441
+318,JAN 30 2019,15009 Astoria St,Sylmar,CA,91342,535000,3,2,SingleFamilyResidence,1329
+319,JAN 30 2019,6744 Hillpark Dr #308,Los Angeles (City),CA,90068,470000,1,2,SingleFamilyResidence,1122
+320,JAN 29 2019,1501 Palos Verdes Drive North #18,Harbor City,CA,90710,179000,3,2,SingleFamilyResidence,1384
+321,JAN 29 2019,8454 Langdon Ave #5,North Hills,CA,91343,385000,3,2,SingleFamilyResidence,1498
+322,JAN 29 2019,1156 South Crescent Hts,Los Angeles (City),CA,90035,1500000,4,2,Accommodation,3380
+323,JAN 29 2019,6228 Sale Ave,Woodland Hills,CA,91367,786000,4,25,SingleFamilyResidence,2336
+324,JAN 29 2019,663 W 7th St,San Pedro,CA,90731,550000,5,2,SingleFamilyResidence,2246
+325,JAN 29 2019,7062 Jellico Ave,Lake Balboa,CA,91406,560000,3,15,SingleFamilyResidence,1414
+326,JAN 29 2019,12115 Bradford Pl,Granada Hills,CA,91344,607500,4,2,SingleFamilyResidence,2343
+327,JAN 30 2019,19610 Sherman Way #2,Reseda,CA,91335,385000,3,3,SingleFamilyResidence,1254
+328,JAN 30 2019,2075 Stonewood Ct,San Pedro,CA,90732,550000,2,225,SingleFamilyResidence,1429
+329,JAN 30 2019,11912 Laurelwood Dr #202,Studio City,CA,91604,885000,3,25,SingleFamilyResidence,1640
+330,JAN 30 2019,8565 Adir Dr,West Hills,CA,91304,910000,5,3,SingleFamilyResidence,3138
+331,JAN 30 2019,7403 Remmet Ave,Canoga Park,CA,91303,530000,4,2,SingleFamilyResidence,1281
+332,JAN 30 2019,7427 Densmore Ave,Lake Balboa,CA,91406,599000,3,2,SingleFamilyResidence,1441
+333,JAN 30 2019,15009 Astoria St,Sylmar,CA,91342,535000,3,2,SingleFamilyResidence,1329
+334,JAN 30 2019,10112 Gerald Ave,North Hills,CA,91343,578000,3,175,SingleFamilyResidence,1663
+335,JAN 30 2019,6744 Hillpark Dr #308,Los Angeles (City),CA,90068,470000,1,2,SingleFamilyResidence,1122
+336,JAN 29 2019,1501 Palos Verdes Drive North #18,Harbor City,CA,90710,179000,3,2,SingleFamilyResidence,1384
+337,JAN 29 2019,8454 Langdon Ave #5,North Hills,CA,91343,385000,3,2,SingleFamilyResidence,1498
+338,JAN 29 2019,1156 South Crescent Hts,Los Angeles (City),CA,90035,1500000,4,2,Accommodation,3380
+339,JAN 29 2019,663 W 7th St,San Pedro,CA,90731,550000,5,2,SingleFamilyResidence,2246
+340,JAN 29 2019,6228 Sale Ave,Woodland Hills,CA,91367,786000,4,25,SingleFamilyResidence,2336
+341,JAN 29 2019,7062 Jellico Ave,Lake Balboa,CA,91406,560000,3,15,SingleFamilyResidence,1414
+342,JAN 29 2019,12115 Bradford Pl,Granada Hills,CA,91344,607500,4,2,SingleFamilyResidence,2343
+343,JAN 29 2019,1920 Thurman Ave,Los Angeles (City),CA,90016,800000,3,175,SingleFamilyResidence,1793
+344,JAN 29 2019,12837 Moorpark St #401,Studio City,CA,91604,799000,3,3,SingleFamilyResidence,2000
+345,JAN 29 2019,14642 Avenida De Mirada,Sylmar,CA,91342,470000,4,3,SingleFamilyResidence,1748
+346,JAN 28 2019,13040 Dronfield Ave #15,Sylmar,CA,91342,150000,1,1,SingleFamilyResidence,589
+347,JAN 29 2019,1920 Thurman Ave,Los Angeles (City),CA,90016,800000,3,175,SingleFamilyResidence,1793
+348,JAN 29 2019,12837 Moorpark St #401,Studio City,CA,91604,799000,3,3,SingleFamilyResidence,2000
+349,JAN 29 2019,14642 Avenida De Mirada,Sylmar,CA,91342,470000,4,3,SingleFamilyResidence,1748
+350,JAN 28 2019,13040 Dronfield Ave #15,Sylmar,CA,91342,150000,1,1,SingleFamilyResidence,589
+351,JAN 28 2019,1120 Los Palos St,Los Angeles,CA,90023,400000,3,1,SingleFamilyResidence,1170
+352,JAN 28 2019,1219 Stringer Ave,Los Angeles,CA,90063,540000,6,3,SingleFamilyResidence,2310
+353,JAN 28 2019,5303 Union Pacific Ave,Los Angeles,CA,90022,445000,3,2,SingleFamilyResidence,1984
+354,JAN 28 2019,8401 Capistrano Ave,West Hills,CA,91304,570000,3,175,SingleFamilyResidence,1506
+355,JAN 28 2019,15175 Magnolia Blvd Unit C,Sherman Oaks,CA,91403,620000,3,25,SingleFamilyResidence,1570
+356,JAN 28 2019,10114 Gaviota Ave,North Hills,CA,91343,600000,3,25,SingleFamilyResidence,2170
+357,JAN 28 2019,4724 Kester Ave #108,Sherman Oaks,CA,91403,599000,3,2,SingleFamilyResidence,1373
+358,JAN 29 2019,,Los Angeles,CA,,25000,,,Accommodation,
+359,JAN 29 2019,,Los Angeles,CA,,375000,,,Accommodation,
+360,FEB 1 2019,,Los Angeles,CA,,303198,,,SingleFamilyResidence,
